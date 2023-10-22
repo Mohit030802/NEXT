@@ -11,13 +11,17 @@
   "dependencies": {
     "axios": "^1.5.1",
     "bcrypt": "^5.1.1",
+    "jsonfile": "^6.1.0",
     "jsonwebtoken": "^9.0.2",
+    "lodash": "^4.17.21",
+    "moment": "^2.29.4",
     "mongoose": "^7.6.1",
     "next": "13.5.4",
     "nodemailer": "^6.9.7",
     "react": "^18",
     "react-dom": "^18",
-    "react-hot-toast": "^2.4.1"
+    "react-hot-toast": "^2.4.1",
+    "simple-git": "^3.20.0"
   },
   "devDependencies": {
     "autoprefixer": "^10",
